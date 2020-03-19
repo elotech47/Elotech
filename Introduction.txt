@@ -1,0 +1,5 @@
+Full Name = Ikponmwoba Eloghosa
+email = eloghosaefficiency@gmail.com
+Slack Username = Elotech
+Tracks = Backend, Frontend, Design
+Courses = Python, GO, Html, CSS, JavaScript, Design
